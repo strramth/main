@@ -6,23 +6,23 @@
       <description>Last 10 notes on Quartz 4</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>Dual Ramsey Property</title>
-    <link>https://quartz.jzhao.xyz/Dual-Ramsey-Property</link>
-    <guid>https://quartz.jzhao.xyz/Dual-Ramsey-Property</guid>
-    <description><![CDATA[ Def. A class of structures has dual Ramsey property iff … A \to B. ]]></description>
-    <pubDate>Wed, 26 Nov 2025 00:53:37 GMT</pubDate>
+    <title>Ramsey property</title>
+    <link>https://quartz.jzhao.xyz/Ramsey-property</link>
+    <guid>https://quartz.jzhao.xyz/Ramsey-property</guid>
+    <description><![CDATA[ Definition. Let \mathcal{K} be a class of finite structures. ]]></description>
+    <pubDate>Wed, 26 Nov 2025 21:29:16 GMT</pubDate>
   </item><item>
     <title>Welcome to the Repository of structural Ramsey Theory</title>
     <link>https://quartz.jzhao.xyz/</link>
     <guid>https://quartz.jzhao.xyz/</guid>
     <description><![CDATA[ This is the only note in the vault: Ramsey property Here’s another one: Dual Ramsey Property. ]]></description>
-    <pubDate>Wed, 26 Nov 2025 00:53:37 GMT</pubDate>
+    <pubDate>Wed, 26 Nov 2025 11:35:02 GMT</pubDate>
   </item><item>
-    <title>Ramsey property</title>
-    <link>https://quartz.jzhao.xyz/Ramsey-property</link>
-    <guid>https://quartz.jzhao.xyz/Ramsey-property</guid>
-    <description><![CDATA[ Definition. Let \mathcal{K} be a class of finite structures. ]]></description>
-    <pubDate>Tue, 25 Nov 2025 13:19:37 GMT</pubDate>
+    <title>Dual Ramsey Property</title>
+    <link>https://quartz.jzhao.xyz/Dual-Ramsey-Property</link>
+    <guid>https://quartz.jzhao.xyz/Dual-Ramsey-Property</guid>
+    <description><![CDATA[ Def. A class of structures has dual Ramsey property iff … A \to B. ]]></description>
+    <pubDate>Wed, 26 Nov 2025 00:53:37 GMT</pubDate>
   </item>
     </channel>
   </rss>
