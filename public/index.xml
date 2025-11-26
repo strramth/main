@@ -6,11 +6,23 @@
       <description>Last 10 notes on Quartz 4</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Graphs</title>
+    <link>https://quartz.jzhao.xyz/Classes/Graphs</link>
+    <guid>https://quartz.jzhao.xyz/Classes/Graphs</guid>
+    <description><![CDATA[ Def. A graph is … Properties Ramsey property Amalgamation prop. ]]></description>
+    <pubDate>Wed, 26 Nov 2025 21:38:29 GMT</pubDate>
+  </item><item>
+    <title>Amalgamation prop</title>
+    <link>https://quartz.jzhao.xyz/Properties/Amalgamation-prop</link>
+    <guid>https://quartz.jzhao.xyz/Properties/Amalgamation-prop</guid>
+    <description><![CDATA[ Def. dskf;lks Structures with the property Graphs. ]]></description>
+    <pubDate>Wed, 26 Nov 2025 21:38:11 GMT</pubDate>
+  </item><item>
     <title>Ramsey property</title>
-    <link>https://quartz.jzhao.xyz/Ramsey-property</link>
-    <guid>https://quartz.jzhao.xyz/Ramsey-property</guid>
+    <link>https://quartz.jzhao.xyz/Properties/Ramsey-property</link>
+    <guid>https://quartz.jzhao.xyz/Properties/Ramsey-property</guid>
     <description><![CDATA[ Definition. Let \mathcal{K} be a class of finite structures. ]]></description>
-    <pubDate>Wed, 26 Nov 2025 21:29:16 GMT</pubDate>
+    <pubDate>Wed, 26 Nov 2025 21:28:11 GMT</pubDate>
   </item><item>
     <title>Welcome to the Repository of structural Ramsey Theory</title>
     <link>https://quartz.jzhao.xyz/</link>
@@ -19,10 +31,10 @@
     <pubDate>Wed, 26 Nov 2025 11:35:02 GMT</pubDate>
   </item><item>
     <title>Dual Ramsey Property</title>
-    <link>https://quartz.jzhao.xyz/Dual-Ramsey-Property</link>
-    <guid>https://quartz.jzhao.xyz/Dual-Ramsey-Property</guid>
+    <link>https://quartz.jzhao.xyz/Properties/Dual-Ramsey-Property</link>
+    <guid>https://quartz.jzhao.xyz/Properties/Dual-Ramsey-Property</guid>
     <description><![CDATA[ Def. A class of structures has dual Ramsey property iff … A \to B. ]]></description>
-    <pubDate>Wed, 26 Nov 2025 00:53:37 GMT</pubDate>
+    <pubDate>Wed, 26 Nov 2025 00:48:55 GMT</pubDate>
   </item>
     </channel>
   </rss>
